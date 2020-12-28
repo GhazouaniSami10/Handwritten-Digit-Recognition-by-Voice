@@ -10,4 +10,5 @@ dependencies:
   - scipy
   - seaborn
   - keras
+  - libespeak
   
