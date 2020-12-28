@@ -10,4 +10,4 @@ dependencies:
   - scipy
   - seaborn
   - keras
-  - pypiwin32
+  - pyttsx
