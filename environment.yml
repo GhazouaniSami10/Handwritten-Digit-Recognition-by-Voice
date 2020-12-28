@@ -10,4 +10,6 @@ dependencies:
   - scipy
   - seaborn
   - keras
-  - pyttsx
+  - sapi5
+  - nsss
+  - espeak
